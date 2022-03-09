@@ -1,0 +1,77 @@
+div {
+    width: 70%;
+    max-width: 65%;
+}
+body {
+    background-color: lightblue;
+}
+  
+h1 {
+    color: gray;
+    font-family: verdana;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    font-family: verdana;
+    text-align: center;
+    font-size: 35px;
+}
+
+h3 {
+    color: black;
+    font-family: Verdana;
+    text-indent: center;
+    font-size: 30px;
+}
+
+p {
+    font-family: verdana;
+    font-size: 22px;
+}
+
+ul {
+    list-style-type: none;
+    font-family: verdana;
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+}
+
+br {
+    line-height: 10px;
+}
+
+h4 {
+    font-family: Verdana;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0;
+}
+
+.taidiv{
+    text-indent:16%;
+}
+.akshaydiv{
+    text-indent:10%;
+}
+
+.nadiadiv {
+    text-indent:18%;
+}
+
+.christydiv {
+    text-indent:8%;
+}
+
+.michellediv {
+    text-indent:15%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
