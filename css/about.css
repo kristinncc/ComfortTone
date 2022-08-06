@@ -39,6 +39,30 @@ ul {
     font-size: 25px;
 }
 
+/*ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #3a3a3a;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: #111111;
+}*/
+
 br {
     line-height: 10px;
 }
@@ -75,3 +99,23 @@ h4 {
     margin-right: auto;
     width: 50%;
 }
+
+table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+th {
+    border: 1px none #dddddd;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+  }
+
+td {
+    border: 1px none #dddddd;
+    text-align: left;
+    padding: 20px;
+} 
